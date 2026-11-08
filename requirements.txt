@@ -1,0 +1,7 @@
+gspread>=6.0.0
+google-auth>=2.0.0
+google-api-python-client>=2.0.0
+mcp[cli]>=1.0.0
+# Optional: business-card OCR tool (tool_extract_business_card)
+# anthropic>=0.40.0
+# Dev: pytest>=8.0.0
